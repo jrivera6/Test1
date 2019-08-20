@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Caso2\Caso2\bin\Debug\Caso2.exe.config
+C:\Users\Alumno\source\repos\Caso2\Caso2\bin\Debug\Caso2.exe
+C:\Users\Alumno\source\repos\Caso2\Caso2\bin\Debug\Caso2.pdb
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.Form1.resources
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.exe
+C:\Users\Alumno\source\repos\Caso2\Caso2\obj\Debug\Caso2.pdb
